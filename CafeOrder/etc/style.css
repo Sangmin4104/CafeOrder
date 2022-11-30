@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+
+.col.header {
+	height:150px;
+	background:url('../module/logo.png') no-repeat 15px 0;
+}
+	.header .form-logon {
+		margin-left:280px;
+	}
+.menu {
+
+}
+.main {
+
+}
+.col.footer {
+	background:url('../module/logo.png') no-repeat;
+}
